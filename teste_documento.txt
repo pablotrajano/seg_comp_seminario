@@ -1,0 +1,10 @@
+Este é um documento de teste para o sistema de assinatura digital.
+
+Conteúdo:
+- Sistema desenvolvido para seminário de Segurança Computacional
+- Implementa assinatura digital RSA-PSS com SHA3-256
+- Permite verificação de integridade e autenticidade
+
+Data: 16/07/2025
+Autor: Sistema de Teste
+
